@@ -1,2 +1,2 @@
 # rusty
-Crash test in Rust
+Video streaming HTTP server in Rust (to learn ☺️)
